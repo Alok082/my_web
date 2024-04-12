@@ -15,7 +15,8 @@ Driven by a shared passion for animal welfare, "Patpals Outreach" harnesses the 
 Together, we embark on a journey of empathy and solidarity, where every donation signifies not just a meal, but a beacon of hope and kindness for our beloved four-legged companions. "Patpals Outreach" invites you to join us in this noble pursuit, where every act of generosity serves as a testament to the boundless capacity for compassion within us all.''',
     imageUrl: 'assets/images/patpalsoutreach.png',
     tech: ['Flutter', 'XAMPP', 'Android', 'Php'],
-    projectUrl: "",
+    projectUrl:
+        "https://drive.google.com/file/d/1XDnt_w2sB2oUFRs8PzkukuAvrjTxtVuD/view?usp=drivesdk",
     showcaseVideo: "",
   ),
   CustomProject(
